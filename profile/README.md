@@ -106,6 +106,7 @@ in the branches named above and in the estate repositories.
 ## Upstream engagement
 
 - **FINOS FDC3 #2204** — merged into finos/FDC3:main (2026-10-08, API-verified)
+- **Solana SID proposal** — "Typed Settlement Wire Linkage via SPL Memo v2 and Token-2022 Introspection" — merged into our `solana-improvement-documents:main` as that repo's first-ever PR (#1, 2026-09-26)
 - **FINOS traderX #470** — open, in active maintainer review
 - **FINOS OpenEAGO #65** — open
 - **finITe** — conformance suite pinned and re-runnable against our agent, receipts included
