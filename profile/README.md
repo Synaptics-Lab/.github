@@ -26,6 +26,7 @@ Judges can open every surface live, no appointment needed:
 - **Continuous Atomic Netting stream** — [colosseum.synapticchain.xyz/can](https://colosseum.synapticchain.xyz/can) (400 ms evaluation cadence)
 - **Institutional position brief** — [colosseum.synapticchain.xyz/brief](https://colosseum.synapticchain.xyz/brief)
 - **Institutional FX terminal** — [terminal.synapticchain.xyz](https://terminal.synapticchain.xyz)
+- **FINOS traderX blotter** — [traderx.synapticchain.xyz](https://traderx.synapticchain.xyz) (desk pairs wired to live corridors, PR #470 branch running)
 
 Demo videos (pitch + product demo):
 
