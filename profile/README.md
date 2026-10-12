@@ -89,6 +89,7 @@ verbatim; write transactions are never trusted without an on-ledger readback.
 
 | Repo | Purpose |
 |---|---|
+| [synaptic-open](https://github.com/Synaptics-Lab/synaptic-open) | Run SynapticChain L1 without the proprietary source: production node binaries + genesis, example SynapticLang contracts, live receipts, runnable probes (local node 3/3 ×2, public surface 7/7 ×2) |
 | [x402-tswp](https://github.com/Synaptics-Lab/x402-tswp) | X402-TSWP SSOT — IETF draft `draft-shabazz-http-x402-tswp-00`, IANA-registered ALPN, and the 20-subsystem technical-disclosure registry (Zenodo DOIs) |
 | [elizaos-plugin-x402-settlement](https://github.com/Synaptics-Lab/elizaos-plugin-x402-settlement) | Settlement plugin published to npm for the ElizaOS agent ecosystem |
 | [synlang](https://github.com/Synaptics-Lab/synlang) | SynapticLang compiler CLI |
